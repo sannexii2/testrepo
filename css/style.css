@@ -1,0 +1,17 @@
+
+.main{
+	width: 600px;
+	height: 200px;
+	border: 2px solid red;
+	border-radius: 20px;	
+	}	
+	a{
+	color: green;
+	text-decoration: none;/* anchor default will go out ....*/
+	}
+	a:hover{
+	color: red;
+	text-decoration: underline;/* anchor default will go out ....*/	
+		
+	}
+   
